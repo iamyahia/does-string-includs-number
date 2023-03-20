@@ -1,4 +1,6 @@
-"Bye world! 2" is the string you wish to check for the presence of a number in the code above.
+"Bye world! 2" 
+
+it's the string you wish to check for the presence of a number in the code above.
 you can test it with this script:
 
 ```
