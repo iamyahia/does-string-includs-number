@@ -1,7 +1,7 @@
 "Bye world! 2" 
 
 it's the string you wish to check for the presence of a number in the code above.
-you can test it with this script:
+you can test it with this script::
 
 ```
 hasNumber(input) {
